@@ -1,0 +1,5 @@
+¿Que es un conmit? "Foto" o captura instantánea (snapshot) de tu código en un momento específico, guardada permanentemente en un sistema de control de versiones como Git. 
+¿Para que sirve el historial de versiones? Sirve pararastrear, visualizar y restaurar estados anteriores de un documento o archivo
+¿Que ventajas tiene GitHub para tranajo colavorativo? Permitir que equipos distribuidos trabajen simultáneamente en el mismo código sin conflictos.
+¿Que sucede si un archivo se elimina accidentalmente? No desaparece inmediatamente del disco duro, el sistema operativo lo oculta y marca su espacio como "disponible". 
+¿Porque es importante escribir mensajes claros en los commits? Benefician tanto al desarrollo individual como al trabajo en equipo.
